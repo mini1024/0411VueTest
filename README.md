@@ -17,6 +17,9 @@
 		* vue-scroller: 页面滑动相关
 		* mint-ui: 基于vue的组件库(移动端)
 		* element-ui: 基于vue的组件库(PC端)
+		
+
+		
   
 # 2. 基本使用
 	1). 引入vue.js
